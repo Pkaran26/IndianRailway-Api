@@ -1,3 +1,4 @@
+#!/Users/Prateek/AppData/Local/Programs/Python/Python36-32/python.exe
 import requests
 r = requests.get('https://www.w3schools.com/js/json_demo.txt')
 print(r.status_code)
